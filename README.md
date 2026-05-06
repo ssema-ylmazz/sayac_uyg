@@ -11,6 +11,7 @@ Uygulama geliştirme sürecinde Flutter widget yapısı, state yönetimi mantı�
 - Flutter
 - Dart
 
+
 ## Kurulum
 
 ```bash
