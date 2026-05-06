@@ -13,12 +13,12 @@ Uygulama geliştirme sürecinde Flutter widget yapısı, state yönetimi mantı�
 
 ## Kurulum
 
+```bash
 git clone https://github.com/ssema-ylmazz/sayac_uyg.git
 cd sayac_uyg
 flutter pub get
 flutter run
-
-
+```
 
 ## Proje Yapısı
 
