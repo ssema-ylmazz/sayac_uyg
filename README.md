@@ -1,16 +1,26 @@
-# ornek_proje
+# Sayaç Uygulaması
 
-A new Flutter project.
+Bu proje, Flutter kullanılarak geliştirilmiş basit bir mobil sayaç uygulamasıdır. Kullanıcı, ekrandaki sayaç değerini artırabilir ve sıfırlayabilir. Proje, Flutter ile temel mobil uygulama geliştirme pratiği yapmak amacıyla hazırlanmıştır.
 
-## Getting Started
+## Proje Hakkında
 
-This project is a starting point for a Flutter application.
+Uygulama geliştirme sürecinde Flutter widget yapısı, state yönetimi mantığı ve temel kullanıcı arayüzü oluşturma konularına odaklanılmıştır. Basit yapısına rağmen Flutter’ın çalışma mantığını öğrenmek açısından temel seviyede faydalı bir uygulamadır.
 
-A few resources to get you started if this is your first Flutter project:
+## Kullanılan Teknolojiler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Proje Yapısı
+
+```bash
+lib/
+ └── main.dart
+
+Kurulum
+git clone https://github.com/ssema-ylmazz/sayac_uyg.git
+cd sayac_uyg
+flutter pub get
+flutter run
+
